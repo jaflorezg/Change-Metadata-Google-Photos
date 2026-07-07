@@ -1,8 +1,9 @@
 # Change-Metadata-Google-Photos
 Ajusta los metadatos de las fotos extraídas de Google Takeout para que se puedan subir sin problemas a una cuenta de Google diferente.
 
+Perdí todas mis fotos de Google Photos!!
 
-Tenia un problema, cancelaron la cuenta de Google de la universidad y tenía todas mis fotos guardadas ahí.
+Bueno eso creía cuando cancelaron la cuenta de Google de la universidad y tenía todas mis fotos guardadas ahí.
 
 De un momento a otro sin ningún puente para pasar las fotos a otra cuenta de Google, la única solución que encontre fue utilizar Google Takeout.
 

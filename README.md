@@ -1,12 +1,12 @@
 # Change-Metadata-Google-Photos
-Ajusta los metadatos de las fotos extraídas de Google Takeout para que se puedan subir sin problemas a una cuenta de Google diferente.
+Adjust the metadata of the photos extracted from Google Takeout so that they can be uploaded seamlessly to a different Google account.
 
-Perdí todas mis fotos de Google Photos!!
+I lost all my photos from Google Photos!!
 
-Bueno eso creía cuando cancelaron la cuenta de Google de la universidad y tenía todas mis fotos guardadas ahí.
+Well, that is what I believed when they canceled my university Google account, where I had all my photos saved.
 
-De un momento a otro sin ningún puente para pasar las fotos a otra cuenta de Google, la única solución que encontre fue utilizar Google Takeout.
+Suddenly, without any direct way to transfer the photos to another Google account, the only solution I found was to use Google Takeout.
 
-Generando otro problema, ya que al extraer las fotos de esta forma, las fotos obtienen las fechas de la extracción y no la fecha en la cual se tomo la foto.
+This generated another problem, because when extracting photos this way, the photos receive the date of the extraction instead of the date on which the photo was taken.
 
-Debido a que tenía mas de 10 años de fotos, hubiera podido subir una por una y modificar su fecha en Google Photos tardando el resto de mi vida, o generar un código que permitiera modificar todas las fotos y con ayuda de la IA, generé el código que hoy les comparto. 
+Because I had more than ten years of photos, I could have uploaded them one by one and modified their dates in Google Photos, which would have taken the rest of my life, or I could generate a code that would allow me to modify all the photos. With the help of AI, I generated the code that I am sharing with you today.
